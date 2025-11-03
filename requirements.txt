@@ -1,0 +1,28 @@
+# Python Learning Project - Dependencies
+
+# Web Framework (similar to Express.js)
+fastapi==0.116.1
+uvicorn==0.35.0
+
+# Validation (similar to Zod/PropTypes)
+pydantic==2.11.7
+
+# Environment variables (similar to .env in Node.js)
+python-dotenv==1.1.1
+
+# HTTP Client (similar to axios/fetch)
+httpx==0.26.0
+
+# Testing (similar to Jest)
+pytest==8.0.0
+pytest-asyncio==0.23.5
+
+# Code formatting (similar to Prettier)
+black==24.1.1
+
+# Type checking (similar to TypeScript compiler)
+mypy==1.8.0
+
+# Settings management (para pydantic settings)
+pydantic-settings>=2.4.0
+
